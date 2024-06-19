@@ -12,10 +12,10 @@ const weatherContainer = document.querySelector('#weather-data');
 const errorMessage = document.querySelector('#error-message');
 
 const getWeatherData = async (city) => { //pega as informaçoes da API
-    const apiWeatherUrl = `https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${apiKey}&lang=pt_br`;
+
 
     try {
-        const res = await fetch(apiWeatherUrl);
+        const res = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${apiKey}&lang=pt_br`);
         const data = await res.json();
 
         if (res.status !== 200) {
