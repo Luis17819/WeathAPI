@@ -5,7 +5,9 @@ Site para pesquisar a temperatura e o clima de cidades em todo o mundo. Neste pr
 Para utilizar o WeathAPI localmente, siga os passos abaixo:
 
 1.Crie uma conta no [OpenWeather](https://openweathermap.org/) e gere uma API Key.
+
 2.Insira a API Key gerada na variável apiKey no código do projeto.
+
 3.Com a API Key configurada, o site estará pronto para uso.
 
 
