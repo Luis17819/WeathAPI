@@ -1,4 +1,4 @@
-# WeathAPI
+# WeatherWise
 Site para pesquisar a temperatura e o clima de cidades em todo o mundo. Neste projeto, utilizei a API da OpenWeather, aplicando os conhecimentos adquiridos na disciplina de FrontEnd, juntamente com a documentação da API e do JavaScript.
 
 ## Como Utilizar Localmente:
