@@ -1,28 +1,12 @@
 # WeathAPI
-
 Site para pesquisar a temperatura e o clima de cidades em todo o mundo. Neste projeto, utilizei a API da OpenWeather, aplicando os conhecimentos adquiridos na disciplina de FrontEnd, juntamente com a documentação da API e do JavaScript.
 
-## Como utilizar o WeathAPI localmente
+## Como Utilizar Localmente:
+Para utilizar o WeathAPI localmente, siga os passos abaixo:
 
-Para rodar o WeathAPI em sua máquina local, siga os passos abaixo:
-
-### Pré-requisitos
-
-Certifique-se de que você tem o Node.js instalado em sua máquina. Caso não tenha, você pode baixá-lo e instalá-lo a partir do [site oficial do Node.js](https://nodejs.org/).
-
-### Passos para execução
-
-1. **Abra o terminal**:
-   - Navegue até a pasta que contém o projeto.
-
-2. **Instale as dependências**:
-   ```sh
-   npm install
-
-3. **Inicie a aplicação**:
-   ```sh
-   npm start
+1.Crie uma conta no [OpenWeather](https://openweathermap.org/) e gere uma API Key.
+2.Insira a API Key gerada na variável apiKey no código do projeto.
+3.Com a API Key configurada, o site estará pronto para uso.
 
 
-
-Após executar esses comandos, a aplicação será iniciada e aberta automaticamente em seu navegador. O WeathAPI estará pronto para uso!
+Aproveite para explorar as condições climáticas de diversas cidades ao redor do mundo!
