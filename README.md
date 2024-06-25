@@ -6,7 +6,7 @@ Para utilizar o WeathAPI localmente, siga os passos abaixo:
 
 1.Crie uma conta no [OpenWeather](https://openweathermap.org/) e gere uma API Key.
 
-2.Insira a API Key gerada na variável apiKey no código do projeto.
+2.Insira a API Key gerada na variável apiKey no arquivo scrpit.js do projeto.
 
 3.Com a API Key configurada, o site estará pronto para uso.
 
